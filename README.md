@@ -36,7 +36,7 @@ Example:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/file-organizer.git
+git clone https://github.com/pallavi-676/file-organizer.git
 ```
 
 2. Navigate to the project folder:
@@ -76,4 +76,4 @@ FILE_TYPES = {
 
 ## 👤 Author
 
-Pallavi Sarovar
+**Pallavi Sarovar
