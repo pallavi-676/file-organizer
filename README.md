@@ -31,6 +31,16 @@ Example:
 - `.mp4` → Videos
 
 ---
+## 📂 Supported File Types
+
+| Category   | Extensions                  |
+|------------|----------------------------|
+| Images     | .jpg, .png, .jpeg, .gif    |
+| Documents  | .pdf, .docx, .txt          |
+| Videos     | .mp4, .mkv                 |
+| Music      | .mp3, .wav                 |
+| Code       | .py, .js, .cpp             |
+---
 
 ## ▶️ How to Run
 
@@ -50,6 +60,14 @@ python organizer.py
 ```
 
 ---
+## 🖥️ Example Output
+
+Moved: photo.jpg → Images  
+Moved: resume.pdf → Documents  
+Moved: song.mp3 → Music  
+
+✅ Files organized successfully!
+---
 
 ## ⚙️ Customization
 
@@ -62,6 +80,11 @@ FILE_TYPES = {
 }
 ```
 
+---
+## ⚠️ Important Note
+
+- This script moves files permanently.
+- Make sure to backup important files before running.
 ---
 
 ## 📌 Future Improvements
