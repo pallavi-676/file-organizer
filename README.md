@@ -76,4 +76,4 @@ FILE_TYPES = {
 
 ## 👤 Author
 
-**Pallavi Sarovar
+**Pallavi Sarovar**
